@@ -1,0 +1,28 @@
+# .gitignore
+
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# TensorFlow checkpoints and logs
+model/
+logs/
+
+# IDE-specific files (you can add more based on your development environment)
+.vscode/
+.idea/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Environment-specific files
+.env
+venv/
+env/
