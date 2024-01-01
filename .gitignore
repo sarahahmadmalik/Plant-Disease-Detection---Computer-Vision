@@ -16,6 +16,7 @@ logs/
 # IDE-specific files (you can add more based on your development environment)
 .vscode/
 .idea/
+dataset/
 
 # Compiled files
 *.pyc
