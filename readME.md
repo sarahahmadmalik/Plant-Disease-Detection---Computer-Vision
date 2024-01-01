@@ -71,7 +71,10 @@ While the CNN model automatically extracts features during training, the manual 
    - Save the result image.
 
 This manual approach allows for experimentation with different images and color ranges for disease, providing flexibility in adapting the code to specific use cases.
-![Alt text](image_with_keypoints.jpg)![Alt text](diseased_regions_result.jpg)
+
+![Alt text](sample2.jpg)
+![Alt text](image_with_keypoints.jpg)
+![Alt text](diseased_regions_result.jpg)
 
 ## 11. Usage
 1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset/code).
